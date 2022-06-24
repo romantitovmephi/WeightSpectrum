@@ -102,4 +102,3 @@ SystemOpen[%]
 ListPlot[ws, 
  PlotTheme -> "DarkColor", AxesLabel -> {"Вес", "Количество"}, 
  AxesOrigin -> {0, 0}, PlotRange -> All, Filling -> Bottom]
-          
