@@ -90,7 +90,6 @@ WeightSpectrumCodeParallel[basis : {{__Integer} ..}] :=
   ]
   
 (* показать время вычислений *)
-
 AbsoluteTiming[ParallelEvaluate[WeightSpectrumGrayCode[basis]];][[1]]
 
 (* показать все запущенные ядра *)
