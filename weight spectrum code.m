@@ -71,8 +71,7 @@ AbsoluteTiming[ParallelEvaluate[WeightSpectrumGrayCode[basis]];][[1]]
 Kernels[]
 
 (* save result to file result.txt *)
-Export[
-       FileNameJoin[{filepath, "result.txt"}], ws, "Table", "FieldSeparators" -> "\t"]
+Export[FileNameJoin[{filepath, "result.txt"}], ws, "Table", "FieldSeparators" -> "\t"]
 
 (* look at the result in the file *)
 SystemOpen[%]
