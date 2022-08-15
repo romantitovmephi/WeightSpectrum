@@ -1,5 +1,14 @@
 
-# Вычисление весового спектра линейного подпространства
+# Вычисление весового спектра линейного подпространства
+
+`weight spectrum code.m` —  файл с кодом вычисления весового спектра
+
+`weight spectrum.nb` —  файл с кодом Wolfram Mathematica Notebook
+
+`data.txt` —  текстовый файл с набором векторов
+
+`result.txt` —  текстовый файл строк с парой значений вес/количество
+___
 
 ## [Задание](https://github.com/romantitovmephi/WeightSpectrum/blob/main/documentation/requirements.png)
 
